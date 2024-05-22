@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm 2Luna!
 #### A Passionate Hobby Developer and UI/UX Designer from Hamburg
 
-![Welcome to my GitHub profile](https://github.com/2Luna/2Luna/banner.gif)
+![Welcome to my GitHub profile](https://github.com/2Luna/2luna/blob/main/banner.gif?raw=true)
 
 I'm currently working on a new website for my dad's company, PC321 Ldt., because the old one needed a fresh look. I'm a self-taught UI/UX designer with a love for making things beautiful and functional. 🌸
 
