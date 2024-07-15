@@ -17,10 +17,7 @@ I'm currently working on a new website for my dad's company, PC321 Ldt., because
 - 🌟 Based in the beautiful Hanseatic city of Hamburg
 - 🎨 Over 10 years of experience in graphic and web design
 - 💖 Passionate about creating intuitive and delightful user experiences
-
-## Currently Working On
-🔭 [PC321 Ldt. Website](https://github.com/2Luna/pc321-website)
-
+- 
 ## Let's Connect!
 - 🎮 Twitch: [2iluna](https://www.twitch.tv/2iluna)
 - 🐦 Twitter/X: [@twoiluna](https://twitter.com/twoiluna)
