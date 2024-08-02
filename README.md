@@ -5,6 +5,9 @@
 
 I'm currently working on a new website for my dad's company, PC321 Ldt., because the old one needed a fresh look. I'm a self-taught UI/UX designer with a love for making things beautiful and functional. 🌸
 
+<a href="https://app.daily.dev/2luna"><img src="https://api.daily.dev/devcards/v2/vBdPq83BlbjpLfDbenS8D.png?type=default&r=d39" width="356" alt="Luna's Dev Card"/></a>
+
+
 ## Skills
 - HTML & SCSS/SASS
 - Adobe XD & Figma
