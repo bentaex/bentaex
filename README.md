@@ -1,4 +1,4 @@
-### Hi there 👋, I'm 2Luna!
+### Hi there 👋, I'm 2Luna/Aice!
 #### A Passionate Hobby Developer and UI/UX Designer from Hamburg
 
 ![Welcome to my GitHub profile](https://github.com/2Luna/2luna/blob/main/banner.gif?raw=true)
