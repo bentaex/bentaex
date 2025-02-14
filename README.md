@@ -25,7 +25,7 @@ I love coding, designing, and making things both functional and beautiful. 🌸
 
 ## Let's Connect!
 
-- 🎮 Twitch: [2iluna](https://www.twitch.tv/2iluna)  
+- 🎮 Twitch: [2iluna](https://www.twitch.tv/aice)  
 - 🐦 Twitter/X: [@twoiluna](https://twitter.com/twoiluna)  
 
 Thanks for stopping by! 💕
