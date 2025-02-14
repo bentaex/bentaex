@@ -1,28 +1,31 @@
-### Hi there 👋, I'm 2Luna/Aice!
-#### A Passionate Hobby Developer and UI/UX Designer from Hamburg
+# Hi there 👋, I'm Aice (formerly 2Luna)!
+A Passionate Hobby Developer and UI/UX Designer from Hamburg
 
-![Welcome to my GitHub profile](https://github.com/2Luna/2luna/blob/main/banner.gif?raw=true)
+## Welcome to my GitHub profile!
 
-I'm currently working on a new website for my dad's company, PC321 Ldt., because the old one needed a fresh look. I'm a self-taught UI/UX designer with a love for making things beautiful and functional. 🌸
+I'm currently working on a **World of Warcraft Addon**, which helps players with Mythic+ and Raids.  
+I love coding, designing, and making things both functional and beautiful. 🌸  
 
-<a href="https://app.daily.dev/2luna"><img src="https://api.daily.dev/devcards/v2/vBdPq83BlbjpLfDbenS8D.png?type=default&r=d39" width="356" alt="Luna's Dev Card"/></a>
+## Aice's Dev Card  
+### Skills
 
-
-## Skills
-- HTML & SCSS/SASS
-- Adobe XD & Figma
-- Affinity Designer & Adobe Illustrator
-- Adobe InDesign
-- Adobe Photoshop / Photo editing
-- Video Cutting
+- Lua & WoW Addon Development  
+- HTML & SCSS/SASS  
+- Adobe XD & Figma  
+- Affinity Designer & Adobe Illustrator  
+- Adobe InDesign  
+- Adobe Photoshop / Photo editing  
+- Video Editing & Cutting  
 
 ## About Me
-- 🌟 Based in the beautiful Hanseatic city of Hamburg
-- 🎨 Over 10 years of experience in graphic and web design
-- 💖 Passionate about creating intuitive and delightful user experiences
-- 
+
+- 🌟 Based in the beautiful Hanseatic city of Hamburg  
+- 🎨 Over 10 years of experience in graphic and web design  
+- 💖 Passionate about creating intuitive and delightful user experiences  
+
 ## Let's Connect!
-- 🎮 Twitch: [2iluna](https://www.twitch.tv/2iluna)
-- 🐦 Twitter/X: [@twoiluna](https://twitter.com/twoiluna)
+
+- 🎮 Twitch: [2iluna](https://www.twitch.tv/2iluna)  
+- 🐦 Twitter/X: [@twoiluna](https://twitter.com/twoiluna)  
 
 Thanks for stopping by! 💕
