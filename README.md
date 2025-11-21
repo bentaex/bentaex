@@ -15,5 +15,5 @@ One of its key projects is **[GoblinForge]**, my add-on and modding studio for g
 
 > 🛠 **Current Projects:**  
 > - **GoblinForge** – Add-on development & tools  
-> - **ViceLife** – FiveM Fun/Dev server, expanding to GTA VI  
+> - **ViceLife/FoxSix** – FiveM Fun/Dev server, expanding to GTA VI  
 > - More ideas are brewing... 🎯
