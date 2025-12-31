@@ -38,7 +38,7 @@ at the intersection of **technology, gaming, and community**.
 ### 📫 Connect
 
 * 🌐 [https://coreforia.net](https://coreforia.net)
-* 💬 Discord / Gaming: **Aice**
+* 💬 Discord / Gaming: **.Aice.**
 * 💻 Coding identity: **Bentaex**
 
 So wie es jetzt ist, wirkt es ruhig, klar und **sehr souverän** 🌱
