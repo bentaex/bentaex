@@ -1,19 +1,48 @@
-# Hi there 👋, I'm Aice / Bentaex!
+## 👋 Hi, I’m **Aice**
 
-🧠 **Why two names?**  
-**Bentaex** is my coding name – where I develop, design, and build tools, add-ons, and software.  
-**Aice** is my gaming name – in the world of games, I’m a creative thinker and community-driven player.
+<sub>Founder & CEO • UI/UX Designer</sub>
 
-🎨 I'm a passionate **hobby developer** and **UI/UX designer** from Hamburg, Germany.  
-I love turning ideas into projects, designing intuitive systems, and exploring the intersection of tech and gaming.
+💻 **Coding alias:** **Bentaex**
+📍 Hamburg, Germany
 
-🚀 **Founder of [GobFora](https://gobfora.de)**  
-GobFora is my creative and technical project label, combining everything I work on.  
-One of its key projects is **[GoblinForge]**, my add-on and modding studio for games like *World of Warcraft* and more.
+I build **intuitive systems**, **scalable platforms**, and **creative ecosystems**
+at the intersection of **technology, gaming, and community**.
 
 ---
 
-> 🛠 **Current Projects:**  
-> - **GoblinForge** – Add-on development & tools  
-> - **FoxCity** – FiveM Fun/Dev server, expanding to GTA VI  
-> - More ideas are brewing... 🎯
+### 🚀 What I do
+
+* Founder & CEO of **CoreForia**
+* Product vision & hands-on development
+* Coding under my dev tag **Bentaex**
+* UI/UX design with a system-driven mindset
+
+---
+
+### 🧠 Core Projects
+
+* **CoreForia**
+
+  * **GobFora**
+
+    * **GoblinForge**
+  * **FoxCity**
+
+---
+
+### 🛠 Tech & Focus
+
+* Frontend & UI Systems: HTML, CSS, TypeScript
+* UI/UX & system design
+* Game Development: FiveM, WoW Add-ons
+* Infrastructure & tooling
+
+---
+
+### 📫 Connect
+
+* 🌐 [https://coreforia.net](https://coreforia.net)
+* 💬 Discord / Gaming: **Aice**
+* 💻 Coding identity: **Bentaex**
+
+So wie es jetzt ist, wirkt es ruhig, klar und **sehr souverän** 🌱
