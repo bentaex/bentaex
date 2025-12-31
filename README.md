@@ -22,10 +22,6 @@ at the intersection of **technology, gaming, and community**.
 ### 🧠 Core Projects
 
 * **CoreForia**
-
-  * **GobFora**
-
-    * **GoblinForge**
   * **FoxCity**
 
 ---
