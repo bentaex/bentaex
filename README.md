@@ -13,7 +13,7 @@
 
 ### 🛠 Tech & Focus
 
-`UI/UX Design` `TypeScript` `HTML/CSS` `FiveM` `WoW Add-ons`
+`UI/UX Design` `TypeScript` `HTML/SCSS` `FiveM`
 
 ---
 
