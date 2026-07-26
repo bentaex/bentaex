@@ -19,5 +19,5 @@
 
 ### 📫 Connect
 
-[![Discord](https://img.shields.io/badge/Discord-.Aice.-7289da?style=flat)](https://discord.gg)
-[![Twitter](https://img.shields.io/badge/Twitter-@ilunacat-1da1f2?style=flat)](https://twitter.com/ilunacat)
+[![Discord](https://img.shields.io/badge/Discord-foxtaex-7289da?style=flat)](https://discord.gg)
+[![Twitter/X](https://img.shields.io/badge/X@foxtaex-1da1f2?style=flat)](https://x.com/foxtaex)
