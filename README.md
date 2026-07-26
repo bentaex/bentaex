@@ -20,4 +20,4 @@
 ### 📫 Connect
 
 [![Discord](https://img.shields.io/badge/Discord-foxtaex-7289da?style=flat)](https://discord.gg)
-[![Twitter/X](https://img.shields.io/badge/X@foxtaex-1da1f2?style=flat)](https://x.com/foxtaex)
+[![Twitter/X](https://img.shields.io/badge/X-@foxtaex-1da1f2?style=flat)](https://x.com/foxtaex)
