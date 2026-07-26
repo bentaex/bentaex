@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Johanna
 
-> **Co-Founder & CEO of CoreForAI** — *where AI belongs*
 
 💻 Foxy · Foxtæx · Hamburg, Germany
 
@@ -20,6 +19,5 @@
 
 ### 📫 Connect
 
-[![Core](https://img.shields.io/badge/CoreFor-AI-ff6b6b?style=flat)](https://coreforAI.xyz)
 [![Discord](https://img.shields.io/badge/Discord-.Aice.-7289da?style=flat)](https://discord.gg)
 [![Twitter](https://img.shields.io/badge/Twitter-@ilunacat-1da1f2?style=flat)](https://twitter.com/ilunacat)
