@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Johanna
+# 👋 Hi, I'm Nice
 
 
 💻 Foxy · Foxtæx · Hamburg, Germany
