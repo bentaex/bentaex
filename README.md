@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nice
+# 👋 Hi, I'm Aice
 
 
 💻 Foxy · Foxtæx · Hamburg, Germany
